@@ -1,0 +1,24 @@
+// .alert {
+//     display: inline;
+//     // height: 10rem;
+//     margin: 10rem auto 0 auto;
+//     display: flex;
+//     padding: 2rem 3rem;
+//     width: 30%;
+//     text-align: center;
+//     font-size: 1.7rem;
+
+
+// }
+
+
+.error {
+    background-image: linear-gradient(to right top, #c06169, #c35d70, #c55977, #c65680, #c6538a);
+    display: inline;
+    margin: 10rem auto 0 auto;
+    display: flex;
+    padding: 2rem 3rem;
+    text-align: center;
+    font-size: 1.7rem;
+    color: #fff;
+}
